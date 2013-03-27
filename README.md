@@ -2,6 +2,6 @@
 
 ---
 
-This screen-shot shows the color scheme on [Python](http://python.org) code
+This screen shot shows the color scheme on [Python](http://python.org) code
 
-![screenshot][screenshot]
+![screenshot][http://raw.github.com/jorgehatccrma/CheerfullyDark/master/screenshot.png]
