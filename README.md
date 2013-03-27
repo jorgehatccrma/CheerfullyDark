@@ -4,4 +4,4 @@
 
 This screen shot shows the color scheme on [Python](http://python.org) code
 
-![screenshot](http://raw.github.com/jorgehatccrma/CheerfullyDark/master/screenshot.png)
+![screenshot](https://raw.github.com/jorgehatccrma/CheerfullyDark/master/screenshot.png)
