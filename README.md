@@ -15,7 +15,7 @@ This screen shot shows the color scheme on [Python](http://python.org) code
 
 ### Warning
 
-This is only a color scheme. In other words, it will only change the text edit are, not the file tree on the left, nor the tabs. I personally use the Soda dark theme (availble via `Package Control` as well) to also change the appereance of those parts of ST. In case you care, this is the contents of my settings file:
+This is only a color scheme. In other words, it will only change the text edit area, not the file tree on the left, nor the tabs. I personally use the Soda dark theme (availble via `Package Control` as well) to also change the appereance of those parts of ST. In case you care, this is the content of my settings file:
 
     {
         "color_scheme": "Packages/CheerfullyDark/Cheerfully Dark.tmTheme",
