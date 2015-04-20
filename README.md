@@ -1,6 +1,6 @@
 ## CheerfullyDark
 
-[CheerfullyDark](http://github.com/jorgehatccrma/CheerfullyDark) is a color scheme for [Sublime Text 2](http://www.sublimetext.com/2), by [jorgeh](https://github.com/jorgehatccrma). It's a subtle dark scheme, gentle on the eyes.
+[CheerfullyDark](http://github.com/jorgehatccrma/CheerfullyDark) is a color scheme for [Sublime Text 2/3](http://www.sublimetext.com/), by [jorgeh](https://github.com/jorgehatccrma). It's a subtle dark scheme, gentle on the eyes.
 
 
 ### Installation
