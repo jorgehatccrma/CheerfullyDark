@@ -1,11 +1,32 @@
 ## CheerfullyDark
 
-[CheerfullyDark](http://github.com/jorgehatccrma/CheerfullyDark) is a color scheme for [Sublime Text 2/3](http://www.sublimetext.com/), by [jorgeh](https://github.com/jorgehatccrma). It's a subtle dark scheme, gentle on the eyes.
+[CheerfullyDark](http://github.com/jorgehatccrma/CheerfullyDark) is a color scheme for [Sublime Text 2/3](http://www.sublimetext.com/), by [jorgeh](https://github.com/jorgehatccrma). It's a subtle scheme, gentle on the eyes.
 
 
-### Installation
+### Installation and Usage
 
-[CheerfullyDark](http://github.com/jorgehatccrma/CheerfullyDark) is available to instal via Sublime's `Package Control`.
+[CheerfullyDark](http://github.com/jorgehatccrma/CheerfullyDark) is available to instal via Sublime's [Package Control](https://packagecontrol.io/).
+
+To use it simple add/edit the `color_scheme` entry in you `Preferences.sublime-settings`:
+
+    {
+        ...
+        "color_scheme": "Packages/CheerfullyDark/Cheerfully Dark.tmTheme",
+        ...
+    }
+
+(or use the `Menu` -> `Preferences` -> `Color Scheme` -> `Cheerfully` -> `Cheerfully Dark`).
+
+### Update
+
+Now there's a light version included: `Cheerfully Light`:
+
+    {
+        ...
+        "color_scheme": "Packages/CheerfullyDark/Cheerfully Light.tmTheme",
+        ...
+    }
+
 
 ---
 
