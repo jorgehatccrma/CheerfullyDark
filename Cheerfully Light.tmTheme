@@ -27,6 +27,10 @@
 				<string>#C7C7BF2E</string>
 				<key>selection</key>
 				<string>#BCCDE0A3</string>
+		                <key>findHighlight</key>
+				<string>#85E366</string>
+				<key>findHighlightForeground</key>
+				<string>#C8C8C8</string>
 			</dict>
 		</dict>
 		<dict>
